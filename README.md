@@ -15,7 +15,12 @@ I bridge the gap between building functional tools and securing them against mod
 * **The Build:** Developed an AI-driven automation suite to streamline [Email filtering app].
 * **The Security Twist:** Audited the data pipeline for **OWASP Top 10** vulnerabilities; restricted API scopes to **Principle of Least Privilege**.
 * **[Link to Project Folder or Case Study]**
+### 🖥️ App Interface Overview
+This screenshot shows the main dashboard where the AI processes Gmail data.
 
+![App Dashboard](./assets/images/dashboard-screenshot.png)
+
+*Figure 1: The AppSheet interface displaying real-time data sync from Google Sheets.*
 ---
 
 ## 📜 Certifications & Education
