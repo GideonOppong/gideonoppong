@@ -18,7 +18,7 @@ I bridge the gap between building functional tools and securing them against mod
 ### 🖥️ App Interface Overview
 This screenshot shows the main dashboard where the AI processes Gmail data.
 
-![App Dashboard](./assets/images/dashboard-screenshot.png)
+![App Dashboard](https://raw.githubusercontent.com/GideonOppong/gideonoppong/2ec6bc2851bfeae47c3395d7a8a85f4a3a3ab873/assets/Screenshot%202026-02-23%20222150.png)
 
 *Figure 1: The AppSheet interface displaying real-time data sync from Google Sheets.*
 ---
