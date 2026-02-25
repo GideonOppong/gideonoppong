@@ -22,6 +22,61 @@ This screenshot shows the main dashboard where the AI processes Gmail data.
 
 *Figure 1: The AppSheet interface displaying real-time data sync from Google Sheets.*
 ---
+# 🛡️ Cybersecurity Analysis Labs
+> **Objective:** A collection of hands-on technical labs completed during the Google Cybersecurity Professional Certificate, focusing on threat detection, incident response, and network security.
+
+---
+
+## 🔍 Lab 1: Network Traffic Analysis with Wireshark
+**Scenario:** Identified a potential brute-force attack on a simulated internal server by analyzing packet captures.
+
+### 🛠️ Tools & Skills
+* **Tools:** Wireshark, TCPDump
+* **Skills:** Packet Inspection, Protocol Analysis (TCP/UDP/HTTP), Identifying Suspicious IP Beacons.
+
+### 📸 Documentation
+![Wireshark Analysis Screenshot](link-to-your-screenshot-here)
+*Caption: Filtering for failed login attempts (HTTP 401) to identify the source IP of the attacker.*
+
+### 📝 Key Findings
+* **The Vulnerability:** The server was accepting unencrypted HTTP traffic on Port 80.
+* **The Mitigation:** Recommended transitioning to HTTPS (TLS 1.3) and implementing an Account Lockout Policy after 5 failed attempts.
+
+---
+
+## 🛡️ Lab 2: SQL Injection Defense & Database Security
+**Scenario:** Performed a vulnerability assessment on a web application to identify SQLi entry points.
+
+### 🛠️ Tools & Skills
+* **Tools:** SQL, Linux Terminal
+* **Skills:** Database Querying, Input Validation, Vulnerability Assessment.
+
+### 📸 Documentation
+![SQL Lab Screenshot](link-to-your-screenshot-here)
+*Caption: Using specific SQL queries to audit user permissions and identify unauthorized data access.*
+
+### 📝 Key Findings
+* **The Vulnerability:** Lack of "Prepared Statements" allowed for raw SQL commands to be executed via the search bar.
+* **The Mitigation:** Implemented input sanitization and the **Principle of Least Privilege** for the database user account.
+
+---
+
+## 🐍 Lab 3: Automating Security Tasks with Python
+**Scenario:** Created a script to automate the parsing of server logs to identify "Flagged" IP addresses.
+
+### 🛠️ Tools & Skills
+* **Tools:** Python 3, Linux (Ubuntu)
+* **Skills:** Scripting, Log Analysis, Automation.
+
+### 💻 Code Snippet
+```python
+# Simple script to check if an IP is in the 'Allow List'
+def check_access(ip_address):
+    import_list = ["192.168.1.1", "192.168.1.50"]
+    if ip_address in import_list:
+        print("Access Granted")
+    else:
+        print("Access Denied - Flagged for Review")
 
 ## 📜 Certifications & Education
 * **Google Cybersecurity Professional Certificate** (Coursera)
