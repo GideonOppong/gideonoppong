@@ -69,16 +69,14 @@ This screenshot shows the main dashboard where the AI processes Gmail data.
 ### 🛠️ Tools & Skills
 * **Tools:** Python 3, Linux (Ubuntu)
 * **Skills:** Scripting, Log Analysis, Automation.
-
-### 💻 Code Snippet
-```python
 # Simple script to check if an IP is in the 'Allow List'
 def check_access(ip_address):
     import_list = ["192.168.1.1", "192.168.1.50"]
     if ip_address in import_list:
         print("Access Granted")
     else:
-        print("Access Denied - Flagged for Review").
+        print("Access Denied - Flagged for Review")
+
 ---
 ## 📜 Certifications & Education
 * **Google Cybersecurity Professional Certificate** (Coursera)
