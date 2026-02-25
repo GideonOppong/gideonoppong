@@ -78,9 +78,8 @@ def check_access(ip_address):
     if ip_address in import_list:
         print("Access Granted")
     else:
-        print("Access Denied - Flagged for Review")
+        print("Access Denied - Flagged for Review").
 ---
-
 ## 📜 Certifications & Education
 * **Google Cybersecurity Professional Certificate** (Coursera)
 * **AI App Development Certificate** (Co.Lab)
