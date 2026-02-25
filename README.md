@@ -95,4 +95,4 @@ def check_access(ip_address):
 ---
 
 ## 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/gideonoppong) | [Email](gideonoppong657@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/gideonoppong/] | [Email](gideonoppong657@gmail.com)
