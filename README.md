@@ -24,8 +24,6 @@ This screenshot shows the main dashboard where the AI processes Gmail data.
 ---
 # 🛡️ Cybersecurity Analysis Labs
 > **Objective:** A collection of hands-on technical labs completed during the Google Cybersecurity Professional Certificate, focusing on threat detection, incident response, and network security.
-# 🛡️ Cybersecurity Analysis Labs
-> **Objective:** A collection of hands-on technical labs completed during the Google Cybersecurity Professional Certificate, focusing on threat detection, incident response, and network security.
 
 ---
 
