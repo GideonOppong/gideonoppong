@@ -3,6 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi+I'm+Gideon+Oppong+👋;Cybersecurity+Analyst+%7C+AI+App+Developer;Tech+Transitioner+%7C+Security+Researcher)](https://git.io/typing-svg)
 
+      ____      _               _                     
+     / ___|   _| |__   ___  ___| |__   ___ _ __  ___  
+     \___ \ / _ \ '_ \ / _ \/ __| '_ \ / _ \ '_ \/ __| 
+      ___) |  __/ |_) |  __/ (__| | | |  __/ |_) \__ \ 
+     |____/ \___|_.__/ \___|\___|_| |_|\___| .__/|___/
+                                           |_|         
+         CYBERSECURITY | AI AUTOMATION | ANALYTICS
 
 # Hi, I'm Gideon Oppong👋 
 ### Cybersecurity Aspirant | AI App Developer | Tech Transitioner
