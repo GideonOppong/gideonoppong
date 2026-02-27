@@ -14,6 +14,20 @@ I am a security-focused builder transitioning from teaching integrated science i
 By combining the **Google Cybersecurity Professional Certificate** with hands-on **AI App Development (Co.Lab)**, 
 I bridge the gap between building functional tools and securing them against modern threats.
 
+
+## 📂 Featured Repositories
+
+### 🔸 **Security-Labs**
+Hands-on cybersecurity labs covering incident response, network analysis, malware investigation, log analysis, and threat detection.
+
+🔗 [View Security Labs](./Security-Labs)
+
+---
+
+### 🔸 **Projects/CoLab-AI-App**
+A lab project demonstrating automation and analysis using AI tools in a security workflow.
+
+🔗 [View AI Project](./Projects/CoLab-AI-App)
 ---
 
 ## 🚀 Featured Project: Secure AI Automation Ecosystem
