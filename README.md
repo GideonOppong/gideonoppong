@@ -1,3 +1,8 @@
+
+![Gideon Oppong – Cybersecurity & AI](https://img.shields.io/badge/Gideon_Oppong-Cybersecurity_%7C_AI_App_Developer-blue?style=for-the-badge&logo=google&logoColor=white)
+
+
+
 # Hi, I'm Gideon Oppong👋 
 ### Cybersecurity Aspirant | AI App Developer | Tech Transitioner
 
