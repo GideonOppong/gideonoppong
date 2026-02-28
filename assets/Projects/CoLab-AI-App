@@ -1,1 +1,169 @@
 
+📬 No-Code Email Filter App
+
+A no-code system for blocking unwanted emails, filtering newsletters, and managing inbox rules using modern automation tools.
+
+🔧 Tech Stack
+Category	Tools Used
+Frontend	AppSheet
+Backend / Database	Google Sheets
+Automation	Make
+Email Provider	Gmail
+🎯 Project Overview
+
+This project solves a common problem: email overload. Most inboxes are full of newsletters, promos, and repeated senders that make it hard to focus on important messages.
+
+This no-code app allows users to:
+
+Block specific senders
+
+Filter out certain types of emails
+
+Auto-delete or archive messages
+
+View activity logs
+
+Manage filters through an easy-to-use AppSheet UI
+
+The system runs fully automated through Make and stores structured data in Google Sheets.
+
+🧩 System Architecture
+1. User Interface (AppSheet)
+
+Users submit blocked senders or filtering rules
+
+Can view logs of what emails were filtered
+
+Fully mobile-friendly UI
+
+2. Database (Google Sheets)
+
+Contains the following tables:
+
+Blocked Senders
+
+Filter Rules
+
+Email Logs
+
+Settings
+
+3. Automation Layer (Make)
+
+Scenario includes:
+
+Gmail Watcher
+
+Google Sheets Lookup / Update
+
+Logic filters
+
+Action modules (delete, archive, apply label)
+
+4. Email Source (Gmail)
+
+Make reads and processes incoming messages through the Gmail API.
+
+🔄 Workflow Diagram
+AppSheet (UI)
+     ↓
+Google Sheets (Database)
+     ↓
+Make (Automation)
+     ↓
+Gmail (Email Processing)
+     ↓
+Google Sheets (Logs)
+     ↓
+AppSheet (User Dashboard)
+🚀 Features
+
+Add a sender to the block list from mobile
+
+Create filtering rules (e.g., subject contains "promo", domain-based, etc.)
+
+Auto-delete or archive emails
+
+Real-time logs accessible in AppSheet
+
+Modular and extensible design
+
+🛠️ Getting Started
+1. Clone the Repository
+git clone https://github.com/yourusername/no-code-email-filter-app.git
+2. Set Up Google Sheets
+
+Create sheets for Blocked Senders, Filter Rules, Log, Settings
+
+3. Connect Google Sheets to AppSheet
+
+Import the sheet
+
+Configure views (Forms, Tables, Dashboards)
+
+4. Build Automation
+
+In Make, create a scenario with:
+
+Gmail Watch Messages
+
+Search sender in Blocked Senders sheet
+
+If match → Delete or Archive
+
+Log action in Google Sheet
+
+5. Deploy the App
+
+Turn off or on sign-in depending on your needs
+
+Get the public link from AppSheet → Users > Links
+
+📸 Screenshots
+
+(Add when ready)
+
+AppSheet UI
+
+Google Sheets structure
+
+Make scenario layout
+
+🧪 Testing
+
+Test by adding your own email to Blocked Senders.
+
+Send yourself a test email.
+
+Verify logs populate.
+
+Adjust filters as needed.
+
+📌 Roadmap
+
+ Add machine-learning categorization (optional)
+
+ UI redesign with tabs & dashboard
+
+ Add push notification alerts
+
+ Add multi-user version
+
+ Add auto-snooze or priority rules
+
+🤝 Contributing
+
+Pull requests are welcome.
+For major changes, please open an issue first to discuss what you would like to change.
+
+📝 License
+
+MIT License — free to use, modify, and distribute.
+
+💬 Contact
+
+If you want help automating email workflows or building no-code apps:
+
+Gideon Oppong
+GitHub: @yourusername
+Email: gideonoppong657@gmail.com
