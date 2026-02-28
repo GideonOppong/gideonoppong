@@ -20,7 +20,7 @@ I bridge the gap between building functional tools and securing them against mod
 ### 🔸 **Security-Labs**
 Hands-on cybersecurity labs covering incident response, network analysis, malware investigation, log analysis, and threat detection.
 
-🔗 [View Security Labs](./Security-Labs)
+🔗 [View Security Labs](assets/Security-Labs)
 
 ---
 
