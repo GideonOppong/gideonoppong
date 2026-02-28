@@ -27,7 +27,7 @@ Hands-on cybersecurity labs covering incident response, network analysis, malwar
 ### 🔸 **Projects/CoLab-AI-App**
 A lab project demonstrating automation and analysis using AI tools in a security workflow.
 
-🔗 [View AI Project](./Projects/CoLab-AI-App)
+🔗 [View AI Project](assets/Projects/CoLab-AI-App)
 ---
 
 ## 🚀 Featured Project: Secure AI Automation Ecosystem
