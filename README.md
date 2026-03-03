@@ -62,8 +62,9 @@ def check_access(ip_address):
 
 
 
+---
 
 Category,Tools/Skills
-Security,"NIST CSF, IAM, Wireshark, SQL, Incident Response"
-Development,"Python, Low-Code (AppSheet/Make), API Integration, JSON"
+Security,"NIST Framework, IAM, Wireshark, SQL, Python"
+Development,"Low-Code (AppSheet/Make), API Integration, JSON"
 Operations,"Linux (Ubuntu), Technical Documentation, Risk Assessment"
