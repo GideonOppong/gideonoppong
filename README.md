@@ -61,14 +61,6 @@ def check_access(ip_address):
 ```
 
 
-
-🛠️ Technical Toolkit
-Category	Tools / Skills
-Security	NIST Framework, IAM, Wireshark, SQL, Python
-Development	Low-Code (AppSheet, Make.com), API Integration, JSON
-Operations	Linux, Documentation, Risk Assessment
-
-
 📜 Certifications & Education
 
 Google Cybersecurity Professional Certificate — Coursera
@@ -76,6 +68,12 @@ Google Cybersecurity Professional Certificate — Coursera
 AI App Development Certificate — Co.Lab
 
 Diploma in Basic Education — Abetifi Presbyterian College of Education
+
+🛠️ Technical Toolkit
+Category	Tools / Skills
+Security	NIST Framework, IAM, Wireshark, SQL, Python
+Development	Low-Code (AppSheet, Make.com), API Integration, JSON
+Operations	Linux, Documentation, Risk Assessment
 
 
 📫 Connect With Me
