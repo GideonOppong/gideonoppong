@@ -1,70 +1,144 @@
 
-![Gideon Oppong – Cybersecurity & AI](https://img.shields.io/badge/Gideon_Oppong-Cybersecurity_%7C_AI_App_Developer-blue?style=for-the-badge&logo=google&logoColor=white)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi+I'm+Gideon+Oppong+👋;Cybersecurity+Analyst+%7C+AI+App+Developer;Tech+Transitioner+%7C+Security+Researcher)](https://git.io/typing-svg)
-
-# Hi, I'm Gideon Oppong 👋 
-
-## 🛡️ Professional Summary
-I am a security-focused builder transitioning from a background in **Integrated Science Education** into **Cybersecurity**. I specialize in bridging the gap between developing functional AI-driven tools and securing them against modern threats. 
-
-My analytical background in science enables me to approach incident response and threat hunting with a rigorous, evidence-based methodology.
-
----
-
-## 📂 Featured Repositories
-
-### 🛡️ **Cybersecurity Analysis Labs**
-A comprehensive collection of hands-on technical labs focusing on threat detection, incident response, and network security using the NIST Framework.
-🔗 [View Security Labs Folder](./assets/Security-Labs)
-
-### 🤖 **Secure AI Automation Ecosystem (Co.Lab)**
-A production-ready automation suite demonstrating secure data pipelines and API management.
-🔗 [View Project Folder](./assets/Projects/CoLab-AI-App)
-
----
-
-## 🚀 Featured Project: Secure AI Automation Ecosystem
-**Tools:** Make.com, AppSheet, Google Sheets, Gmail API, OpenAI
-
-* **The Build:** Developed an AI-driven automation suite to streamline secure email filtering and data categorization.
-* **The Security Twist:** Audited the data pipeline for **OWASP Top 10 for LLMs**; restricted API scopes to **Principle of Least Privilege (PoLP)** to mitigate account takeover risks.
-
-### 🖥️ App Interface Overview
-![App Dashboard](https://raw.githubusercontent.com/GideonOppong/gideonoppong/2ec6bc2851bfeae47c3395d7a8a85f4a3a3ab873/assets/Screenshot%202026-02-23%20222150.png)
-*Figure 1: The AppSheet interface displaying real-time secure data sync from Google Sheets.*
-
----
-
-## 🔍 Featured Lab: Network Analysis with Wireshark
-**Scenario:** Identified a potential brute-force attack on a simulated internal server by analyzing packet captures.
-
-* **Tools:** Wireshark, TCPDump
-* **Key Finding:** Identified unauthorized HTTP 401 errors indicating a credential stuffing attempt.
-* **Mitigation:** Recommended transitioning to HTTPS (TLS 1.3) and implementing account lockout policies.
+Hi, I'm Gideon Oppong 👋
+Cybersecurity Aspirant | AI App Developer | Tech Transitioner
 
 
 
----
 
-## 🐍 Security Automation: Python
-I use Python to automate repetitive security tasks, such as log parsing and access control validation.
+📘 Table of Contents
+<details> <summary><strong>Click to expand</strong></summary>
 
-```python
+Professional Summary
+
+Featured Repositories
+
+Featured AI Security Project
+
+Cybersecurity Analysis Labs
+
+Certifications & Education
+
+Technical Toolkit
+
+Connect With Me
+
+</details>
+🛡️ Professional Summary
+
+I am a security-focused builder transitioning from teaching Integrated Science into Cybersecurity and AI-focused automation.
+By combining the Google Cybersecurity Professional Certificate with hands-on AI App Development (Co.Lab), I create functional systems that are resilient against modern security threats.
+
+📂 Featured Repositories
+🔸 Security-Labs
+
+Hands-on cybersecurity labs covering incident response, malware analysis, network forensics, log analysis, and threat detection.
+🔗 View Security Labs
+
+🔸 AI Security Automation Project (Co.Lab)
+
+AI-powered automation for security workflows and Gmail data analysis.
+🔗 View AI Automation Project
+
+🚀 Featured Project: Secure AI Automation Ecosystem
+
+Tools: Make.com, AppSheet, Gmail API, Google Sheets, OpenAI
+
+🔧 The Build
+
+Created an AI-driven automation suite to filter, categorize, and analyze Gmail data securely.
+
+🛡️ The Security Enhancements
+
+Conducted OWASP Top 10 aligned system review
+
+Restricted API scopes based on the Principle of Least Privilege
+
+Secured data flow across Make → AppSheet → Google Sheets
+
+🖥️ App Interface
+
+
+Dashboard demonstrating real-time syncing and AI-powered filtering.
+
+🛡️ Cybersecurity Analysis Labs
+
+Hands-on technical labs completed during the Google Cybersecurity Professional Certificate, focused on detection, response, and network security.
+
+🔍 Lab 1: Network Traffic Analysis with Wireshark
+🛠️ Tools
+
+
+
+
+Scenario: Detected brute-force attack behavior by analyzing packet captures.
+
+Key Findings:
+
+Unencrypted HTTP traffic on Port 80
+
+Recommended HTTPS (TLS 1.3) + account lockouts
+
+🛡️ Lab 2: SQL Injection Defense & Database Security
+🛠️ Tools
+
+
+
+
+Scenario: Identified SQL injection entry points in a web app.
+
+Key Findings:
+
+Missing prepared statements allowed raw SQL execution
+
+Implemented sanitization + least privilege DB roles
+
+🐍 Lab 3: Automating Security Tasks with Python
+🛠️ Tools
+
+
+
+
+Scenario: Wrote automation scripts to parse server logs for flagged IPs.
+
+Sample Script
 # Simple script to check if an IP is in the 'Allow List'
 def check_access(ip_address):
-    import_list = ["192.168.1.1", "192.168.1.50"]
-    if ip_address in import_list:
-        print(f"Access Granted to {ip_address}")
+    allow_list = ["192.168.1.1", "192.168.1.50"]
+    if ip_address in allow_list:
+        print("Access Granted")
     else:
-        print(f"Access Denied - {ip_address} Flagged for Review")
-```
+        print("Access Denied - Flagged for Review")
+📜 Certifications & Education
+
+🎓 Google Cybersecurity Professional Certificate
+🎓 AI App Development Certificate – Co.Lab
+🎓 Diploma in Basic Education – Abetifi Presbyterian College of Education
+
+🛠️ Technical Toolkit
+Security & Analysis
 
 
 
----
 
-Category,Tools/Skills
-Security,"NIST Framework, IAM, Wireshark, SQL, Python"
-Development,"Low-Code (AppSheet/Make), API Integration, JSON"
-Operations,"Linux (Ubuntu), Technical Documentation, Risk Assessment"
+
+
+
+
+Development & Automation
+
+
+
+
+
+
+Operations
+
+
+
+
+
+
+📫 Connect With Me
+
+
+📩 Email: gideonoppong657@gmail.com
