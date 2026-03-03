@@ -60,4 +60,9 @@ def check_access(ip_address):
         print(f"Access Denied - {ip_address} Flagged for Review")
 
 
-🛠️ Technical ToolkitCategoryTools/SkillsSecurityNIST CSF, IAM, Wireshark, SQL, Incident ResponseDevelopmentPython, Low-Code (AppSheet/Make), API Integration, JSONOperationsLinux (Ubuntu), Technical Documentation, Risk Assessment📜 Certifications & Education🎓 Google Cybersecurity Professional Certificate (Coursera)🎓 AI App Development Certificate (Co.Lab)🏫 Diploma in Basic Education (Abetifi Presbyterian C.O.E)📫 Connect with me:🤝 LinkedIn: linkedin.com/in/gideonoppong📧 Email: gideonoppong657@gmail.com
+---
+
+Category,Tools/Skills
+Security,"NIST CSF, IAM, Wireshark, SQL, Incident Response"
+Development,"Python, Low-Code (AppSheet/Make), API Integration, JSON"
+Operations,"Linux (Ubuntu), Technical Documentation, Risk Assessment"
