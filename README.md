@@ -25,7 +25,7 @@
 
 ## 🛡️ Professional Summary  
 I am a security-focused builder transitioning from teaching Integrated Science into **Cybersecurity** and **AI-focused automation**.  
-By combining the **Google Cybersecurity Professional Certificate** with hands-on **AI App Development (Co.Lab)**, I create functional systems that are resilient against modern security threats.
+By combining the **Google Cybersecurity Professional Certificate** with hands-on **AI App Development (Co.Lab)**, I create functional systems that are resilient against modern security threats. My analytical background in science enables me to approach incident response and threat hunting with a rigorous, evidence-based methodology.
 
 ---
 
