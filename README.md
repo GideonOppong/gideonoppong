@@ -58,9 +58,10 @@ def check_access(ip_address):
         print(f"Access Granted to {ip_address}")
     else:
         print(f"Access Denied - {ip_address} Flagged for Review")
+```
 
 
----
+
 
 Category,Tools/Skills
 Security,"NIST CSF, IAM, Wireshark, SQL, Incident Response"
