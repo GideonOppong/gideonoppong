@@ -1,133 +1,63 @@
 
-Hi, I'm Gideon Oppong 👋
-Cybersecurity Aspirant | AI App Developer | Tech Transitioner
+[Gideon Oppong – Cybersecurity & AI](https://img.shields.io/badge/Gideon_Oppong-Cybersecurity_%7C_AI_App_Developer-blue?style=for-the-badge&logo=google&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi+I'm+Gideon+Oppong+👋;Cybersecurity+Analyst+%7C+AI+App+Developer;Tech+Transitioner+%7C+Security+Researcher)](https://git.io/typing-svg)
+
+# Hi, I'm Gideon Oppong 👋 
+
+## 🛡️ Professional Summary
+I am a security-focused builder transitioning from a background in **Integrated Science Education** into **Cybersecurity**. I specialize in bridging the gap between developing functional AI-driven tools and securing them against modern threats. 
+
+My analytical background in science enables me to approach incident response and threat hunting with a rigorous, evidence-based methodology.
+
+---
+
+## 📂 Featured Repositories
+
+### 🛡️ **Cybersecurity Analysis Labs**
+A comprehensive collection of hands-on technical labs focusing on threat detection, incident response, and network security using the NIST Framework.
+🔗 [View Security Labs Folder](./assets/Security-Labs)
+
+### 🤖 **Secure AI Automation Ecosystem (Co.Lab)**
+A production-ready automation suite demonstrating secure data pipelines and API management.
+🔗 [View Project Folder](./assets/Projects/CoLab-AI-App)
+
+---
+
+## 🚀 Featured Project: Secure AI Automation Ecosystem
+**Tools:** Make.com, AppSheet, Google Sheets, Gmail API, OpenAI
+
+* **The Build:** Developed an AI-driven automation suite to streamline secure email filtering and data categorization.
+* **The Security Twist:** Audited the data pipeline for **OWASP Top 10 for LLMs**; restricted API scopes to **Principle of Least Privilege (PoLP)** to mitigate account takeover risks.
+
+### 🖥️ App Interface Overview
+![App Dashboard](https://raw.githubusercontent.com/GideonOppong/gideonoppong/2ec6bc2851bfeae47c3395d7a8a85f4a3a3ab873/assets/Screenshot%202026-02-23%20222150.png)
+*Figure 1: The AppSheet interface displaying real-time secure data sync from Google Sheets.*
+
+---
+
+## 🔍 Featured Lab: Network Analysis with Wireshark
+**Scenario:** Identified a potential brute-force attack on a simulated internal server by analyzing packet captures.
+
+* **Tools:** Wireshark, TCPDump
+* **Key Finding:** Identified unauthorized HTTP 401 errors indicating a credential stuffing attempt.
+* **Mitigation:** Recommended transitioning to HTTPS (TLS 1.3) and implementing account lockout policies.
 
 
 
+---
 
-🛡️ Professional Summary
+## 🐍 Security Automation: Python
+I use Python to automate repetitive security tasks, such as log parsing and access control validation.
 
-I am a security-focused builder transitioning from teaching Integrated Science into Cybersecurity.
-By combining the Google Cybersecurity Professional Certificate with hands-on AI App Development at Co.Lab, I bridge the gap between building functional tools and securing them against modern threats.
-
-📂 Featured Repositories
-🔸 Security-Labs
-
-Hands-on cybersecurity labs covering incident response, network analysis, malware investigation, log analysis, and threat detection.
-🔗 View Security Labs
-
-🔸 Projects / CoLab-AI-App
-
-A project demonstrating automation and data analysis using AI tools in a security workflow.
-🔗 View AI Project
-
-🚀 Featured Project: Secure AI Automation Ecosystem
-
-Tools: Make.com, AppSheet, Google Sheets, Gmail API, OpenAI
-
-🔧 The Build
-
-Developed an AI-driven automation suite to streamline an email filtering and analysis app.
-
-🛡️ The Security Twist
-
-Conducted a security audit aligned with OWASP Top 10
-
-Restricted API scopes based on the Principle of Least Privilege
-
-Ensured secure data transmissions and minimized exposure risks
-
-📁 Link to Project Folder or Case Study
-
-🖥️ App Interface Overview
-
-This screenshot shows the main dashboard where the AI processes Gmail data.
-
-
-Figure 1: AppSheet interface displaying real-time data sync from Google Sheets.
-
-🛡️ Cybersecurity Analysis Labs
-
-A collection of hands-on labs completed during the Google Cybersecurity Professional Certificate, focusing on threat detection, incident response, and network security.
-
-🔍 Lab 1: Network Traffic Analysis with Wireshark
-
-Scenario:
-Investigated a potential brute-force attack on a simulated internal server using packet captures.
-
-🛠️ Tools & Skills
-
-Tools: Wireshark, TCPDump
-
-Skills: Packet inspection, protocol analysis (TCP/UDP/HTTP), identifying suspicious IP beacons.
-
-📸 Documentation
-
-
-Filtering for failed login attempts (HTTP 401) to identify the attacker’s IP.
-
-📝 Key Findings
-
-Vulnerability: Server was accepting unencrypted HTTP traffic on port 80.
-
-Mitigation: Recommended migrating to HTTPS (TLS 1.3) and enforcing an Account Lockout Policy after 5 failed attempts.
-
-🛡️ Lab 2: SQL Injection Defense & Database Security
-
-Scenario:
-Performed vulnerability assessment to identify SQL Injection points.
-
-🛠️ Tools & Skills
-
-Tools: SQL, Linux Terminal
-
-Skills: Input validation, database querying, vulnerability assessment.
-
-📸 Documentation
-
-
-Using SQL queries to audit permissions and detect unauthorized access.
-
-📝 Key Findings
-
-Vulnerability: Missing prepared statements allowed raw SQL execution.
-
-Mitigation: Implemented input sanitization and Principle of Least Privilege for database users.
-
-🐍 Lab 3: Automating Security Tasks with Python
-
-Scenario:
-Created a Python script to automate parsing of server logs for flagged IP addresses.
-
-🛠️ Tools & Skills
-
-Tools: Python 3, Linux (Ubuntu)
-
-Skills: Scripting, log analysis, automation.
-
-📄 Sample Script
+```python
 # Simple script to check if an IP is in the 'Allow List'
 def check_access(ip_address):
-    allow_list = ["192.168.1.1", "192.168.1.50"]
-    if ip_address in allow_list:
-        print("Access Granted")
+    import_list = ["192.168.1.1", "192.168.1.50"]
+    if ip_address in import_list:
+        print(f"Access Granted to {ip_address}")
     else:
-        print("Access Denied - Flagged for Review")
-📜 Certifications & Education
+        print(f"Access Denied - {ip_address} Flagged for Review")
+```
 
-Google Cybersecurity Professional Certificate — Coursera
-
-AI App Development Certificate — Co.Lab
-
-Diploma in Basic Education — Abetifi Presbyterian College of Education
-
-🛠️ Technical Toolkit
-Category	Tools / Skills
-Security	NIST Framework, IAM, Wireshark, SQL, Python
-Development	Low-Code (AppSheet, Make.com), API Integration, JSON
-Operations	Linux, Documentation, Risk Assessment
-📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/gideonoppong/
-
-Email: gideonoppong657@gmail.com
+🛠️ Technical ToolkitCategoryTools/SkillsSecurityNIST CSF, IAM, Wireshark, SQL, Incident ResponseDevelopmentPython, Low-Code (AppSheet/Make), API Integration, JSONOperationsLinux (Ubuntu), Technical Documentation, Risk Assessment📜 Certifications & Education🎓 Google Cybersecurity Professional Certificate (Coursera)🎓 AI App Development Certificate (Co.Lab)🏫 Diploma in Basic Education (Abetifi Presbyterian C.O.E)📫 Connect with me:🤝 LinkedIn: linkedin.com/in/gideonoppong📧 Email: gideonoppong657@gmail.com
