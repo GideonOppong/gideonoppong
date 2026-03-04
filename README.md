@@ -16,6 +16,7 @@
 - [Cybersecurity Analysis Labs](#-cybersecurity-analysis-labs)  
 - [Certifications & Education](#-certifications--education)  
 - [Technical Toolkit](#-technical-toolkit)  
+- [Advanced Visuals](#-advanced-visuals)  
 - [Connect With Me](#-connect-with-me)  
 
 </details>
@@ -55,8 +56,7 @@ Created an AI-driven automation suite to filter, categorize, and analyze Gmail d
 - Secured data flow across Make → AppSheet → Google Sheets  
 
 ### 🖥️ App Interface  
-![App Dashboard](https://raw.githubusercontent.com/GideonOppong/gideonoppong/2ec6bc2851bfeae47c3395d7a8a85f4a3a3ab873/assets/Screenshot%202026-02-23%20222150.png)  
-*Dashboard demonstrating real-time syncing and AI-powered filtering.*
+![App Dashboard](https://raw.githubusercontent.com/GideonOppong/gideonoppong/2ec6bc2851bfeae47c3395d7a8a85f4a3a3ab873/assets/Screenshot%202026-02-23%20222150.png)
 
 ---
 
@@ -72,12 +72,6 @@ Created an AI-driven automation suite to filter, categorize, and analyze Gmail d
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TCPDump](https://img.shields.io/badge/TCPDump-grey?style=for-the-badge)
 
-**Scenario:** Detected brute-force attack behavior by analyzing packet captures.  
-
-**Key Findings:**  
-- Unencrypted HTTP traffic on Port 80  
-- Recommended HTTPS (TLS 1.3) + account lockouts  
-
 ---
 
 ## 🛡️ **Lab 2: SQL Injection Defense & Database Security**  
@@ -85,12 +79,6 @@ Created an AI-driven automation suite to filter, categorize, and analyze Gmail d
 ### 🛠️ Tools  
 ![SQL](https://img.shields.io/badge/SQL-006400?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Scenario:** Identified SQL injection entry points in a web app.  
-
-**Key Findings:**  
-- Missing prepared statements allowed raw SQL execution  
-- Implemented sanitization + least privilege DB roles  
 
 ---
 
@@ -100,14 +88,41 @@ Created an AI-driven automation suite to filter, categorize, and analyze Gmail d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-**Scenario:** Wrote automation scripts to parse server logs for flagged IPs.
+---
 
-### Sample Script  
-```python
-# Simple script to check if an IP is in the 'Allow List'
-def check_access(ip_address):
-    allow_list = ["192.168.1.1", "192.168.1.50"]
-    if ip_address in allow_list:
-        print("Access Granted")
-    else:
-        print("Access Denied - Flagged for Review")
+# 📜 Certifications & Education  
+
+🎓 **Google Cybersecurity Professional Certificate**  
+🎓 **AI App Development Certificate – Co.Lab**  
+🎓 **Diploma in Basic Education – Abetifi Presbyterian College of Education**  
+
+---
+
+# 🛠️ Technical Toolkit  
+
+## **Security & Analysis**  
+![NIST](https://img.shields.io/badge/NIST_Framework-000080?style=for-the-badge)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-006400?style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)  
+
+## **Development & Automation**  
+![AppSheet](https://img.shields.io/badge/AppSheet-0769AD?style=for-the-badge&logo=googleappsscript&logoColor=white)  
+![Make.com](https://img.shields.io/badge/Make.com-purple?style=for-the-badge)  
+![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge)  
+
+## **Operations**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-grey?style=for-the-badge)  
+![Documentation](https://img.shields.io/badge/Documentation-blue?style=for-the-badge)  
+
+---
+
+
+
+---
+
+# 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gideon_Oppong-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gideonoppong/)  
+📩 **Email:** gideonoppong657@gmail.com  
