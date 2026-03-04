@@ -88,6 +88,20 @@ Created an AI-driven automation suite to filter, categorize, and analyze Gmail d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 🐍 Security Automation: Python
+I use Python to automate repetitive security tasks, such as log parsing and access control validation.
+
+```python
+# Simple script to check if an IP is in the 'Allow List'
+def check_access(ip_address):
+    import_list = ["192.168.1.1", "192.168.1.50"]
+    if ip_address in import_list:
+        print(f"Access Granted to {ip_address}")
+    else:
+        print(f"Access Denied - {ip_address} Flagged for Review")
+```
+
+
 ---
 
 # 📜 Certifications & Education  
