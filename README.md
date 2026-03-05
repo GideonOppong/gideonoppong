@@ -16,7 +16,6 @@
 - [Cybersecurity Analysis Labs](#-cybersecurity-analysis-labs)  
 - [Certifications & Education](#-certifications--education)  
 - [Technical Toolkit](#-technical-toolkit)  
-- [Advanced Visuals](#-advanced-visuals)  
 - [Connect With Me](#-connect-with-me)  
 
 </details>
