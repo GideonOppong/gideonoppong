@@ -12,7 +12,7 @@ This screenshot shows captured HTTP traffic analyzed using Wireshark during pack
 
 ![SQL Injection Lab](https://github.com/GideonOppong/gideonoppong/blob/main/assets/images/Screenshot%202026-02-24%20232658.png?raw=true)
 
-This lab demonstrates how SQL injection attacks occur and how input validation protects databases.
+This lab demonstrates SQL query (SELECT * FROM log_in_attempts) used to audit login history, which is a core task in vulnerability assessment and incident response..
 
 ---
 
