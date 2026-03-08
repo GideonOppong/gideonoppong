@@ -38,7 +38,7 @@ Hands-on cybersecurity labs covering incident response, malware analysis, networ
 
 ## 🔸 **AI Security Automation Project (Co.Lab)**  
 AI-powered automation for security workflows and Gmail data analysis.  
-🔗 **[View AI Automation Project](assets/Projects/CoLab-AI-App)**
+🔗 **[View AI Automation Project](https://github.com/GideonOppong/gideonoppong/tree/main/assets/images/projects/Smart_Email_Automation)**
 
 ---
 
