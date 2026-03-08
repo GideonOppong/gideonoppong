@@ -82,7 +82,6 @@ System design aligned with OWASP security principles
 
 # 📌 **5. AI Automation Project – ai-automation/README.md**
 
-```md
 # 🤖 AI Automation Project (Co.Lab)
 
 This project automates Gmail analysis using:
