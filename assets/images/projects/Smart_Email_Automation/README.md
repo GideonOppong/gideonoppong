@@ -99,5 +99,11 @@ This project automates Gmail analysis using:
 - Restricted access flows
 - Secure API handling
 
-## 🧱 Architecture
+## 🧱 Backend
 ![google sheet](system-architecture.png)
+
+## 🔐 Security Features
+- OAuth-limited scopes
+- Input validation
+- Restricted access flows
+- Secure API handling
