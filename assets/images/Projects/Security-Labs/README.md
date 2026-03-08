@@ -10,7 +10,7 @@ This screenshot shows captured HTTP traffic analyzed using Wireshark during pack
 
 ## Lab 2 — SQL Injection Defense
 
-![SQL Injection Lab](lab2-sql.png)
+![SQL Injection Lab](https://github.com/GideonOppong/gideonoppong/blob/main/assets/images/Screenshot%202026-02-24%20232658.png?raw=true)
 
 This lab demonstrates how SQL injection attacks occur and how input validation protects databases.
 
