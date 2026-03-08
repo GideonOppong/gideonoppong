@@ -130,7 +130,11 @@ def check_access(ip_address):
 ![Documentation](https://img.shields.io/badge/Documentation-blue?style=for-the-badge)  
 
 ---
-
+<p align="center">
+  <a href="INSERT_YOUR_LINK_HERE">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge">
+  </a>
+</p>
 
 
 ---
