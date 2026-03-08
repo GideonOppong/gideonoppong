@@ -32,7 +32,7 @@ By combining the **Google Cybersecurity Professional Certificate** with hands-on
 
 ## 🔸 **Security-Labs**  
 Hands-on cybersecurity labs covering incident response, malware analysis, network forensics, log analysis, and threat detection.  
-🔗 **[View Security Labs](assets/Security-Labs)**
+🔗 **[View Security Labs](https://github.com/GideonOppong/gideonoppong/tree/main/assets/images/Projects/Security-Labs)**
 
 ---
 
