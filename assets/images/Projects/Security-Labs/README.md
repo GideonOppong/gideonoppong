@@ -18,6 +18,6 @@ This lab demonstrates SQL query (SELECT * FROM log_in_attempts) used to audit lo
 
 ## Lab 3 — Python Security Automation
 
-![Python Script](lab3-python.png)
+![Python Script](https://github.com/GideonOppong/gideonoppong/blob/main/assets/images/Screenshot%202026-03-08%20121730.png?raw=true)
 
 This script automates IP allow-list checking for access control.
