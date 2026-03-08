@@ -50,7 +50,7 @@ The data flows through a secured pipeline to ensure no-code reliability:
 *Figure 2: Google Sheets database utilizing protected ranges and audit logs to track automation history.*
 
 ### ⚙️ The Automation Logic
-![Make Scenario](../../assets/images/automation%20make.com.png)
+![Make Scenario](https://github.com/GideonOppong/gideonoppong/blob/main/assets/images/automation%20make.com.png?raw=true)
 *Figure 3: Make.com workflow featuring error-handling routes to prevent data leakage during system failures.*
 
 ---
