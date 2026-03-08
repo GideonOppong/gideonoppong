@@ -92,7 +92,7 @@ This project automates Gmail analysis using:
 
 ## 📸 System Walkthrough
 ### The User Interface
-![App UI](../../assets/images/your-ui-screenshot.png)
+![App UI](assets/images/Screenshot 2026-02-23 222150.png)
  Custom AppSheet dashboard designed to prevent unauthorized data entry.*
 
 
