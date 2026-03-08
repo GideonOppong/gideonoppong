@@ -97,12 +97,12 @@ This project automates Gmail analysis using:
 
 
 ## 🧱 Backend
-![google sheet](assets/images/Google Sheets my app data base.png)
+![google sheet]([assets/images/Google Sheets my app data base.png](https://github.com/GideonOppong/gideonoppong/blob/2a82cf76e1e9878e65b48bb44de94e42560fd49d/assets/images/Google%20Sheets%20my%20app%20data%20base.png))
 **Database:** Google Sheets (Protected ranges and audit logs)
 
 
 ### The Automation Logic
-![Make Scenario](../../assets/images/your-make-screenshot.png)
+![Make Scenario](../../assets/images/automation make.com.png)
  Make.com workflow featuring error-handling routes to prevent data leakage during failures.*
 
 
