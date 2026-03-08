@@ -80,9 +80,9 @@ System design aligned with OWASP security principles
 
 ---
 
-# 📌 **5. AI Automation Project – ai-automation/README.md**
+## 📌 . AI Automation Project – ai-automation/README.md**
 
-# 🤖 AI Automation Project (Co.Lab)
+ ## 🤖 AI Automation Project (Co.Lab)
 
 This project automates Gmail analysis using:
 - Make.com
@@ -90,22 +90,22 @@ This project automates Gmail analysis using:
 - Google Sheets
 - OpenAI API
 
-## 📸 Interface
-![AI Dashboard](../../assets/images/ai-dashboard.png)
+## 📸 System Walkthrough
+### The User Interface
+![App UI](../../assets/images/your-ui-screenshot.png)
+*Caption: Custom AppSheet dashboard designed to prevent unauthorized data entry.*
 
-## 🔐 Security Features
-- OAuth-limited scopes
-- Input validation
-- Restricted access flows
-- Secure API handling
 
 ## 🧱 Backend
 ![google sheet](system-architecture.png)
+**Database:** Google Sheets (Protected ranges and audit logs)
 
 
 ### The Automation Logic
 ![Make Scenario](../../assets/images/your-make-screenshot.png)
 *Caption: Make.com workflow featuring error-handling routes to prevent data leakage during failures.*
+
+
 
 
 ## 🔐 Security Features
