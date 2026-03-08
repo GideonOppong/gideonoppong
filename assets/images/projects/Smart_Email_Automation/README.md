@@ -102,7 +102,7 @@ This project automates Gmail analysis using:
 
 
 ### The Automation Logic
-![Make Scenario](../../assets/images/automation make.com.png)
+![Make Scenario]([../../assets/images/automation make.com.png](https://github.com/GideonOppong/gideonoppong/blob/ddec62098566590b113c979f325a97eec65026a2/assets/images/automation%20make.com.png))
  Make.com workflow featuring error-handling routes to prevent data leakage during failures.*
 
 
