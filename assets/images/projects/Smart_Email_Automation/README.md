@@ -107,9 +107,23 @@ This project automates Gmail analysis using:
 
 
 
-
 ## 🔐 Security Features
 - OAuth-limited scopes
 - Input validation
 - Restricted access flows
 - Secure API handling
+
+🔗 Live Demo
+(Add your AppSheet public link here)
+
+📜 License
+
+This project is part of a personal learning portfolio and is open for educational use.
+
+👤 Author
+
+Gideon Oppong
+Cybersecurity Aspirant | AI App Developer
+
+🔗 LinkedIn
+https://www.linkedin.com/in/gideonoppong/
