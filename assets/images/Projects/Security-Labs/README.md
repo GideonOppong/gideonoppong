@@ -2,7 +2,7 @@
 
 ## Lab 1 — Network Traffic Analysis
 
-![Wireshark Capture](lab1-wireshark.png)
+![Wireshark Capture](https://github.com/GideonOppong/gideonoppong/blob/main/assets/images/Screenshot%202026-02-21%20203350.png?raw=true)
 
 This screenshot shows captured HTTP traffic analyzed using Wireshark during packet inspection.
 
