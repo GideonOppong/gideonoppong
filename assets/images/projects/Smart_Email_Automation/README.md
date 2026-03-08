@@ -42,7 +42,7 @@ The data flows through a secured pipeline to ensure no-code reliability:
 ## 📸 System Walkthrough
 
 ### 📱 The User Interface
-![App UI](../../assets/images/AppSheets UI sync emails.png)
+![App UI](../../assets/images/appsheet-ui.png)
 *Figure 1: Custom AppSheet dashboard designed with input validation to prevent unauthorized data entry.*
 
 ### 🧱 The Backend Database
