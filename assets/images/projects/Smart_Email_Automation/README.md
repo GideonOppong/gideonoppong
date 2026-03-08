@@ -46,7 +46,7 @@ The data flows through a secured pipeline to ensure no-code reliability:
 *Figure 1: Custom AppSheet dashboard designed with input validation to prevent unauthorized data entry.*
 
 ### 🧱 The Backend Database
-![Google Sheets]([../../assets/google-sheets-database.png](https://github.com/GideonOppong/gideonoppong/blob/d4b8d9252c160d444341b69cd18853275d8ac2c9/assets/google-sheets-database.png))
+![Google Sheets]([assets/images/Screenshot 2026-02-20 231147 my app data base.png)
 *Figure 2: Google Sheets database utilizing protected ranges and audit logs to track automation history.*
 
 ### ⚙️ The Automation Logic
