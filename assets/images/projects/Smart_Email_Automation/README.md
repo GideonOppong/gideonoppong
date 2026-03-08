@@ -1,129 +1,71 @@
-Secure AI Automation Ecosystem
+# 🤖 Secure AI Automation Ecosystem
+> **A No-Code AI Automation System for Secure Email Filtering and Data Analysis**
 
-A No-Code AI Automation System for Secure Email Filtering and Data Analysis
+---
 
-🚀 Project Overview
+## 🚀 Project Overview
+The **Secure AI Automation Ecosystem** is a no-code automation system designed to securely filter, categorize, and analyze Gmail data. Developed as part of the **Co.Lab AI App Development Program**, this system demonstrates the intersection of functional automation and cybersecurity principles.
 
-The Secure AI Automation Ecosystem is a no-code automation system designed to securely filter, categorize, and analyze Gmail data using modern automation tools.
+---
 
-The system connects multiple platforms to create a secure automated workflow that improves inbox management while demonstrating principles of cybersecurity, automation, and secure system design.
+## 🎯 Project Goals
+* **Automate** email filtering and categorization to reduce inbox clutter.
+* **Centralize** blocked sender management via a custom dashboard.
+* **Demonstrate** secure automation architecture in a no-code environment.
+* **Apply** cybersecurity best practices, including the Principle of Least Privilege.
 
-This project was developed as part of the AI App Development Program at Co.Lab.
+---
 
-🎯 Project Goals
+## 🧰 Technology Stack
+| Tool | Role |
+| :--- | :--- |
+| **AppSheet** | Frontend User Interface |
+| **Google Sheets** | Backend Database (Protected Ranges) |
+| **Make.com** | Workflow Automation Engine |
+| **Gmail API** | Secure Email Data Source |
+| **OpenAI** | Intelligent Email Classification |
 
-Automate email filtering and categorization
+---
 
-Reduce unwanted promotional and newsletter emails
+## 🧩 System Architecture
+The data flows through a secured pipeline to ensure no-code reliability:
+1. **User Interface (AppSheet):** User defines filtering rules.
+2. **Google Sheets:** Rules are stored in a hardened database.
+3. **Make.com:** Automation triggers via secure webhooks.
+4. **Gmail API:** Executes actions (Delete/Archive/Label) based on AI analysis.
+5. **Feedback Loop:** Logs are written back to Sheets for instant Dashboard updates.
 
-Provide a dashboard for managing blocked senders
-
-Demonstrate secure automation architecture
-
-Apply cybersecurity best practices in a no-code environment
-
-🧰 Technology Stack
-Tool	Role
-AppSheet	Frontend user interface
-Google Sheets	Backend database
-Make	Workflow automation
-Gmail	Email data source
-OpenAI (optional)	Email classification and analysis
-🧩 System Architecture
-User Interface (AppSheet)
-        ↓
-Google Sheets Database
-        ↓
-Make Automation Scenario
-        ↓
-Gmail API (Email Processing)
-        ↓
-Action Logs → Google Sheets
-        ↓
-Dashboard Updates → AppSheet
-🔄 Workflow
-
-User adds blocked senders or filtering rules in AppSheet
-
-Data is stored in Google Sheets
-
-Make monitors updates and triggers automation
-
-Gmail API searches incoming messages
-
-Emails matching rules are:
-
-Deleted
-
-Archived
-
-Labeled
-
-Automation logs the action back to Google Sheets
-
-Dashboard updates appear instantly in AppSheet
-
-🛡️ Security Design Considerations
-
-This project integrates basic cybersecurity practices:
-
-Principle of Least Privilege
-
-Controlled API access scopes
-
-Secure automation triggers
-
-Minimal data exposure between services
-
-System design aligned with OWASP security principles
 
 
 ---
 
-## 📌 . AI Automation Project – ai-automation/README.md**
-
- ## 🤖 AI Automation Project (Co.Lab)
-
-This project automates Gmail analysis using:
-- Make.com
-- AppSheet
-- Google Sheets
-- OpenAI API
-
 ## 📸 System Walkthrough
-### The User Interface
-![App UI]([assets/images/Screenshot 2026-02-23 222150.png](https://github.com/GideonOppong/gideonoppong/blob/0a86ecff69938fb3e8f01fb1c28d58e728b42717/assets/images/Screenshot%202026-02-23%20222150.png))
- Custom AppSheet dashboard designed to prevent unauthorized data entry.*
 
+### 📱 The User Interface
+![App UI](../../assets/images/Screenshot%202026-02-23%20222150.png)
+*Figure 1: Custom AppSheet dashboard designed with input validation to prevent unauthorized data entry.*
 
-## 🧱 Backend
-![google sheet]([assets/images/Google Sheets my app data base.png](https://github.com/GideonOppong/gideonoppong/blob/2a82cf76e1e9878e65b48bb44de94e42560fd49d/assets/images/Google%20Sheets%20my%20app%20data%20base.png))
-**Database:** Google Sheets (Protected ranges and audit logs)
+### 🧱 The Backend Database
+![Google Sheets](../../assets/images/Google%20Sheets%20my%20app%20data%20base.png)
+*Figure 2: Google Sheets database utilizing protected ranges and audit logs to track automation history.*
 
+### ⚙️ The Automation Logic
+![Make Scenario](../../assets/images/automation%20make.com.png)
+*Figure 3: Make.com workflow featuring error-handling routes to prevent data leakage during system failures.*
 
-### The Automation Logic
-![Make Scenario]([../../assets/images/automation make.com.png](https://github.com/GideonOppong/gideonoppong/blob/ddec62098566590b113c979f325a97eec65026a2/assets/images/automation%20make.com.png))
- Make.com workflow featuring error-handling routes to prevent data leakage during failures.*
+---
 
+## 🛡️ Security Design & Features
+Following my **Google Cybersecurity** training, I integrated several defensive layers:
+* **Principle of Least Privilege (PoLP):** API access is restricted to the specific scopes required for email management only.
+* **OAuth 2.0 Integration:** Secure authentication handling between all platforms.
+* **Minimal Data Exposure:** OpenAI modules only process non-sensitive header metadata.
+* **OWASP Alignment:** Designed to mitigate risks associated with broken access control and insecure outputs.
 
+---
 
-## 🔐 Security Features
-- OAuth-limited scopes
-- Input validation
-- Restricted access flows
-- Secure API handling
+## 👤 Author
+**Gideon Oppong**
+*Cybersecurity Aspirant | AI App Developer | Tech Transitioner*
 
-🔗 Live Demo
-(Add your AppSheet public link here)
-
-📜 License
-
-This project is part of a personal learning portfolio and is open for educational use.
-
-👤 Author
-
-Gideon Oppong
-Cybersecurity Aspirant | AI App Developer
-
-🔗 LinkedIn
-https://www.linkedin.com/in/gideonoppong/
+🤝 **LinkedIn:** [linkedin.com/in/gideonoppong](https://www.linkedin.com/in/gideonoppong/)
