@@ -77,3 +77,28 @@ Minimal data exposure between services
 
 System design aligned with OWASP security principles
 
+
+---
+
+# 📌 **5. AI Automation Project – ai-automation/README.md**
+
+```md
+# 🤖 AI Automation Project (Co.Lab)
+
+This project automates Gmail analysis using:
+- Make.com
+- AppSheet
+- Google Sheets
+- OpenAI API
+
+## 📸 Interface
+![AI Dashboard](../../assets/images/ai-dashboard.png)
+
+## 🔐 Security Features
+- OAuth-limited scopes
+- Input validation
+- Restricted access flows
+- Secure API handling
+
+## 🧱 Architecture
+![google sheet](system-architecture.png)
