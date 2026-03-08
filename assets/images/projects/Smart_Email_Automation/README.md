@@ -93,7 +93,7 @@ This project automates Gmail analysis using:
 ## 📸 System Walkthrough
 ### The User Interface
 ![App UI](../../assets/images/your-ui-screenshot.png)
-*Caption: Custom AppSheet dashboard designed to prevent unauthorized data entry.*
+ Custom AppSheet dashboard designed to prevent unauthorized data entry.*
 
 
 ## 🧱 Backend
@@ -103,7 +103,7 @@ This project automates Gmail analysis using:
 
 ### The Automation Logic
 ![Make Scenario](../../assets/images/your-make-screenshot.png)
-*Caption: Make.com workflow featuring error-handling routes to prevent data leakage during failures.*
+ Make.com workflow featuring error-handling routes to prevent data leakage during failures.*
 
 
 
