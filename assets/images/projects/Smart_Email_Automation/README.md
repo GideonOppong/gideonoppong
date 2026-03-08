@@ -102,6 +102,12 @@ This project automates Gmail analysis using:
 ## 🧱 Backend
 ![google sheet](system-architecture.png)
 
+
+### The Automation Logic
+![Make Scenario](../../assets/images/your-make-screenshot.png)
+*Caption: Make.com workflow featuring error-handling routes to prevent data leakage during failures.*
+
+
 ## 🔐 Security Features
 - OAuth-limited scopes
 - Input validation
