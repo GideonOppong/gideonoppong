@@ -97,7 +97,7 @@ This project automates Gmail analysis using:
 
 
 ## 🧱 Backend
-![google sheet](system-architecture.png)
+![google sheet](assets/images/Google Sheets my app data base.png)
 **Database:** Google Sheets (Protected ranges and audit logs)
 
 
