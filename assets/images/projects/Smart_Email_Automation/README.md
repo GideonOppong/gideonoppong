@@ -87,7 +87,7 @@ Maintain a cleaner inbox
 ✔ Modular architecture for expansion
 
 🔗 Live Demo
-(Add your AppSheet public link here)
+(https://www.appsheet.com/start/db65050a-d41a-4dc3-b753-ac7d6ce13cb2)
 
 📜 License
 
