@@ -64,6 +64,35 @@ Following my **Google Cybersecurity** training, I integrated several defensive l
 
 ---
 
+Example Use Case
+
+A user receives hundreds of promotional emails daily.
+
+The system allows them to:
+
+Block unwanted senders
+
+Automatically delete marketing emails
+
+Track automation actions
+
+Maintain a cleaner inbox
+
+📊 Key Features
+
+✔ No-code automation workflow
+✔ Gmail email filtering
+✔ Custom blocking rules
+✔ Automation logging dashboard
+✔ Modular architecture for expansion
+
+🔗 Live Demo
+(Add your AppSheet public link here)
+
+📜 License
+
+This project is part of a personal learning portfolio and is open for educational use.
+
 ## 👤 Author
 **Gideon Oppong**
 *Cybersecurity Aspirant | AI App Developer | Tech Transitioner*
