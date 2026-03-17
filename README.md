@@ -131,7 +131,7 @@ def check_access(ip_address):
 
 ---
 <p align="center">
-  <a href="https://github.com/GideonOppong/gideonoppong/blob/main/assets/images/GIDEON%20OPPONG%20CYBER%20resume.pdf" target="_blank">
+  <a href="https://github.com/GideonOppong/gideonoppong/blob/256bc656bb50b964233c192efb33a5e625d795eb/assets/images/GIDEON%20OPPONG%20CYBER%20resume%201.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume">
   </a>
 </p>
